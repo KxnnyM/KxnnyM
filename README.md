@@ -6,8 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Kenny Mathew.</h1>
 
-<h2 align="left">I am an aspiring Data Scientist from India.</h2>
-<br>
+<h2 align="center">I am an aspiring Data Scientist from India.</h2>
+
 
 ## 😃About Me:
 - 🔭 I’m currently working on **upskilling myself.**
