@@ -4,9 +4,9 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Kenny Mathew.</h1>
+<h1 align="left">Hi 👋, I'm Kenny Mathew.</h1>
 
-<h2 align="center">I am an aspiring Data Scientist from India.</h2>
+<h2 align="left">I am an aspiring Data Scientist from India.</h2>
 <br>
 
 ## 😃About Me:
