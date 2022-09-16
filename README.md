@@ -1,7 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  
-  <img src="https://visitcount.itsvg.in/api?id=KxnnyM&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
+![](https://komarev.com/ghpvc/?username=KxnnyM&style=flat-square&color=blue)
 
 <br>
 
@@ -27,7 +24,7 @@
 ## 🚀Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kenny-mathew/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kenny-mathew/"  /></a>
-<a href="https://instagram.com/kxnny_mathxw" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="@kxnny_mathxw"
+<a href="https://instagram.com/kxnny_mathxw" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E83845?style=for-the-badge&logo=instagram&logoColor=white" alt="@kxnny_mathxw"
 /></a>
 <a href="https://twitter.com/kxnny_mathxw" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kxnny_mathxw"/></a>
 <a href="https://github.com/KxnnyM" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Kxnny#6629"  /></a>
